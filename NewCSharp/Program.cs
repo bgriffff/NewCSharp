@@ -8,6 +8,7 @@ namespace NewCSharp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Blah");
+            Console.WriteLine("New Line");
         }
     }
 }
